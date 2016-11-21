@@ -1,3 +1,6 @@
+*This repo is no longer maintained. Switched to spacemacs.org*
+
+===================================================
 My .emacs.d for Emacs 24.x
 
 I mostly used it with Mac OS X and Linux. Works mostly.
